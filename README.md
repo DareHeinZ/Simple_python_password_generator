@@ -1,3 +1,4 @@
-Um gerador de senhas não tão simples, mas também não impossível
-Em interface utilizei o Tkinter, e em gerador_senha utilizei python puro
-com o módulo Random, com o qual fiz o mecanismo de aleatoriedade.
+- |Gerador de senhas feito utilizando o framework Tkinter|
+- |Em password_generator.py eu criei toda a parte matemática e lógica|
+- |Em generator_functions.py eu criei a parte de funções que geram a interface|
+- |Em main.py importei o módulo de funções e generei o root ou seja o init do TK deixando o programa mais légivel|
